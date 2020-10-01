@@ -1,0 +1,143 @@
+,date_time,ticker,headline,neg,neu,pos,compound
+0,2020-09-25 20:39:00,FB,"As Zoom and Videoconferencing Boom, TVs Are Getting Left Behind",0.0,1.0,0.0,0.0
+1,2020-09-25 17:56:00,FB,Google Policy Limits Ads for Election as It Does for Disasters,0.265,0.735,0.0,-0.5574
+2,2020-09-25 17:44:00,FB,A Right-Leaning Court Will Tackle Some Big Business Cases. The Outcomes Arent Obvious.,0.0,1.0,0.0,0.0
+3,2020-09-25 17:33:00,FB,"Apple Gives In, Allows Facebook Pay for Paid Online Events",0.135,0.865,0.0,-0.1027
+4,2020-09-25 17:14:00,FB,"Apple Decides to Waive 30% Cut of Paid Events on Facebook, but Only for 3 Months",0.1,0.9,0.0,-0.1406
+5,2020-09-25 16:25:00,FB,"Alphabet Inc. Cl A stock rises Friday, still underperforms market",0.0,1.0,0.0,0.0
+6,2020-09-25 16:09:00,FB,"Market Recap: Friday, September 25",0.0,1.0,0.0,0.0
+7,2020-09-25 16:08:00,FB,"Facebook Stock Looks Poised to Rally Back to $300, Says 5-Star Analyst",0.0,0.846,0.154,0.25
+8,2020-09-25 16:06:00,FB,Apple Temporarily Stops Taking 30% Cut of Facebook Paid Events,0.316,0.684,0.0,-0.4019
+9,2020-09-25 15:33:00,FB,Tech Companies Wager Billions On Race To Win Over These Consumers,0.0,0.725,0.275,0.5859
+10,2020-09-25 14:14:00,FB,Republican AG Slams Democrats Who Would Shun DOJs Google Suit,0.0,1.0,0.0,0.0
+11,2020-09-25 13:50:00,FB,Ex-Facebook and Pinterest exec explains how tech addiction made him rethink his life's work,0.0,1.0,0.0,0.0
+12,2020-09-25 13:24:00,FB,Antitrust investigations into Google & Facebook heat up,0.0,1.0,0.0,0.0
+13,2020-09-25 12:08:00,FB,Facebook events service gets temporary exemption from Apple App Store fees: blog post,0.0,1.0,0.0,0.0
+14,2020-09-25 12:00:00,FB,"Apple Temporarily Waives 30% Fee for Facebook Paid Live Events, but Not for Gaming Creators",0.0,1.0,0.0,0.0
+15,2020-09-25 12:00:00,FB,Apple to Let Facebook Online Events Temporarily Avoid 30% Cut,0.35,0.65,0.0,-0.5106
+16,2020-09-25 12:00:00,FB,Apple is (temporarily) waiving its App Store fee for Facebook's online events,0.0,1.0,0.0,0.0
+17,2020-09-25 12:00:00,FB,Facebook events service gets temporary exemption from Apple App Store fees -blog post,0.0,1.0,0.0,0.0
+18,2020-09-25 10:45:00,FB,Trump administration asks the U.S. court to allow WeChat ban to move forward,0.218,0.667,0.115,-0.4019
+19,2020-09-25 09:15:00,FB,Better Buy: Facebook vs. Twitter,0.0,0.58,0.42,0.4404
+20,2020-09-25 08:25:00,FB,"Social media deal earns advertisers' 'likes', but not yet all their dollars",0.0,1.0,0.0,0.0
+22,2020-09-25 07:37:00,FB,Facebook critics launch rival oversight board,0.306,0.6940000000000001,0.0,-0.29600000000000004
+24,2020-09-24 23:29:00,FB,"Google, Facebook CEOs Could Face Subpoena From Senate Panel",0.0,1.0,0.0,0.0
+25,2020-09-24 16:25:00,FB,"Alphabet Inc. Cl A stock rises Thursday, outperforms market",0.0,1.0,0.0,0.0
+26,2020-09-24 15:10:00,FB,The rotation to more value and cyclical sectors has already begun: Wealth Consulting Group CEO,0.0,0.688,0.312,0.7089
+27,2020-09-24 15:06:00,FB,"Facebook suspends fake Russian accounts, warns of U.S. election hack-and-leak threat",0.4970000000000001,0.503,0.0,-0.7845
+29,2020-09-24 15:00:00,FB,"Facebook suspends fake Russian accounts, warns of US election hack-and-leak threat",0.4970000000000001,0.503,0.0,-0.7845
+30,2020-09-24 14:43:00,FB,"Alphabet, Facebook, Twitter CEOs Asked to Appear at Senate Hearing",0.0,1.0,0.0,0.0
+31,2020-09-24 13:49:00,FB,"Senate panel wants CEOs of Facebook, Google, Twitter to testify Oct. 1: report",0.0,1.0,0.0,0.0
+32,2020-09-24 12:55:00,FB,Facebook Oversight Board set to launch ahead of U.S. election,0.0,1.0,0.0,0.0
+33,2020-09-24 12:53:00,FB,"Facebook (FB) Has Risen 38% in Last One Year, Outperforms Market",0.0,1.0,0.0,0.0
+34,2020-09-24 12:43:00,FB,Facebook's Oversight Board Will Start Reviewing Content Soon,0.0,1.0,0.0,0.0
+35,2020-09-24 12:12:00,FB,"Senate panel plans to issue subpoenas to CEOs of Google, Facebook, Twitter",0.0,1.0,0.0,0.0
+36,2020-09-24 11:39:00,FB,What a Biden presidency would mean for tech stocks,0.0,1.0,0.0,0.0
+37,2020-09-24 11:30:00,FB,"Instagram bug made users vulnerable to hackers, according to this report",0.16,0.84,0.0,-0.2263
+38,2020-09-24 10:57:00,FB,Facebook is a whole different animal and may not be able to exist in its current form under a new regime: expert,0.0,1.0,0.0,0.0
+39,2020-09-24 10:00:00,FB,"Tech Veterans Try to Build a Kinder, More Thoughtful Facebook",0.0,0.535,0.465,0.7264
+40,2020-09-24 06:01:00,FB,"Instagram bug made users vulnerable to hackers, cybersecurity firm claims",0.174,0.826,0.0,-0.2263
+41,2020-09-24 06:00:00,FB,Influencers with Andy Serwer: Jessica Alba,0.0,1.0,0.0,0.0
+42,2020-09-24 05:14:00,FB,Facebook's Oversight Board plans to launch just before U.S. election,0.0,1.0,0.0,0.0
+43,2020-09-23 23:59:00,FB,Winklevoss Twins Crypto Exchange Is Expanding Into the U.K.,0.0,1.0,0.0,0.0
+44,2020-09-23 23:41:00,FB,Facebook gives more details about its efforts against hate speech before Myanmar's general election,0.222,0.778,0.0,-0.5719
+45,2020-09-23 20:33:00,FB,Trump Says Kentucky Attorney General Is Handling Breonna Taylor Situation Very Well,0.0,0.821,0.179,0.3384
+46,2020-09-23 16:25:00,FB,"Alphabet Inc. Cl A stock falls Wednesday, underperforms market",0.0,1.0,0.0,0.0
+47,2020-09-23 16:00:00,FB,Singapore Blue-Chip Veteran to Raise Funds for New Venture Firm,0.0,1.0,0.0,0.0
+48,2020-09-23 12:00:00,FB,The Oculus Quest's unofficial app store gets backing from Oculus founder Palmer Luckey,0.0,0.916,0.084,0.0258
+49,2020-09-23 11:45:00,FB,Facebook Tool Faulted for Lapses in Finding Voter Misinformation,0.402,0.598,0.0,-0.5719
+50,2020-09-23 10:00:00,FB,Facebook Threatens to Shoot Itself in the Foot,0.455,0.545,0.0,-0.6124
+51,2020-09-23 09:00:00,FB,Aboard a Winnebago in Search of Better Angels,0.0,0.556,0.444,0.4588
+52,2020-09-23 09:00:00,FB,"Thailand to start legal action vs Facebook, Google, Twitter over content",0.0,0.87,0.13,0.128
+53,2020-09-23 07:24:00,FB,Facebook denies it will pull service in Europe over data transfer ban,0.39,0.61,0.0,-0.7506
+54,2020-09-23 06:24:00,FB,Advertisers agree deal with social media on steps to curb harmful content,0.0,0.815,0.185,0.3612
+55,2020-09-23 06:09:00,FB,Advertisers reach deal with social media on steps to curb harmful content,0.0,0.909,0.091,0.0258
+56,2020-09-23 05:14:00,FB,"Facebook, Twitter, YouTube Make Peace With Advertisers Over Harmful Content: FT",0.0,0.741,0.259,0.5423
+57,2020-09-23 01:09:00,FB,Facebook Removes Chinese Propaganda Network Trying To Influence US Presidential Election,0.16699999999999998,0.833,0.0,-0.25
+58,2020-09-22 22:29:00,FB,Blacklisting U.S. Tech Would Highlight Chinas Own Weakness,0.25,0.536,0.214,-0.1027
+59,2020-09-22 22:18:00,FB,"BlackRock, Sands Capital Lead $300-Million Investment in Byjus",0.0,1.0,0.0,0.0
+60,2020-09-22 20:20:00,FB,A $50 Phone is Ambani's Weapon to Dominate India Telecom Market,0.316,0.684,0.0,-0.4019
+61,2020-09-22 19:59:00,FB,Facebook Removes Fake Accounts Spreading Chinese Propaganda,0.505,0.495,0.0,-0.6249
+62,2020-09-22 18:25:00,FB,U.S. Agencies Warn of Disinformation on Delayed Election Results,0.32,0.68,0.0,-0.3182
+63,2020-09-22 18:03:00,FB,Social networks are doing a voter registration blitz this week,0.0,1.0,0.0,0.0
+64,2020-09-22 16:27:00,FB,Chinese propaganda network on Facebook used AI-generated faces,0.222,0.778,0.0,-0.25
+65,2020-09-22 16:25:00,FB,"Alphabet Inc. Cl A stock rises Tuesday, outperforms market",0.0,1.0,0.0,0.0
+66,2020-09-22 15:25:00,FB,"Mnuchin, Powell promise action to aid economic recovery",0.0,0.753,0.247,0.3182
+67,2020-09-22 15:12:00,FB,'Halftime Report' Traders Share Their Thoughts On Amazon And Facebook,0.0,0.672,0.328,0.4404
+68,2020-09-22 15:10:00,FB,Facebook May Restrict Content On Election Day: Report,0.271,0.7290000000000001,0.0,-0.3818
+69,2020-09-22 15:05:00,FB,Top 20 Richest People In The World,0.0,0.49,0.51,0.6369
+70,2020-09-22 15:01:00,FB,Facebook removes Chinese accounts active in Philippines and U.S. politics,0.0,0.769,0.231,0.4019
+71,2020-09-22 14:38:00,FB,Facebook Analyst Expects 'Pragmatic' Solution To EU Data Transfer Challenges,0.0,0.69,0.31,0.3818
+72,2020-09-22 13:36:00,FB,Facebook says it will restrict content to stop violence around Election Day: Financial Times,0.447,0.5529999999999999,0.0,-0.836
+73,2020-09-22 12:29:00,FB,Apple Stock Might Be the Only Thing Standing Between the Market and Another Selloff,0.0,1.0,0.0,0.0
+74,2020-09-22 11:28:00,FB,Event discovery network IRL raises $16M Series B after refocusing on virtual events,0.0,1.0,0.0,0.0
+75,2020-09-22 10:30:00,FB,Netflix May Discover Treasure in Quibi Wreckage,0.0,0.732,0.268,0.29600000000000004
+76,2020-09-22 10:21:00,FB,Facebook to 'restrict the circulation of content' if election chaos occurs: RPT,0.387,0.613,0.0,-0.743
+77,2020-09-22 09:00:00,FB,"Morgan Beller, co-creator of the Libra digital currency, just joined the venture firm NFX",0.0,1.0,0.0,0.0
+78,2020-09-22 08:42:00,FB,"Facebook Campaigners Skirt Rules in Guinea Vote, Study Says",0.0,1.0,0.0,0.0
+79,2020-09-22 07:26:00,FB,"The market may have peaked so head for the multiasset hills and buy these stocks, says fund manager",0.0,1.0,0.0,0.0
+80,2020-09-22 05:51:00,FB,3 High-Growth Value Stocks Robinhood Investors Can Buy Right Now,0.0,0.769,0.231,0.34
+81,2020-09-21 22:07:00,FB,The Math Doesnt Add Up on TikToks Deal With Oracle and Walmart,0.0,1.0,0.0,0.0
+82,2020-09-21 16:25:00,FB,"Alphabet Inc. Cl A stock falls Monday, underperforms market",0.0,1.0,0.0,0.0
+83,2020-09-21 16:13:00,FB,Stock market news live updates: Stocks sink as September gloom continues,0.265,0.735,0.0,-0.5574
+84,2020-09-21 16:01:00,FB,IPO Stocks To Watch: Beyond Meat Goes Beyond Meatballs And Into China,0.0,1.0,0.0,0.0
+85,2020-09-21 14:42:00,FB,Facebook says it has registered 2.5 million people to vote,0.0,1.0,0.0,0.0
+86,2020-09-21 13:18:00,FB,"Facebook (FB) Has Risen 33% in Last One Year, Outperforms Market",0.0,1.0,0.0,0.0
+87,2020-09-21 11:28:00,FB,Here are 35 stocks in the markets two hottest sectors that Wall Street loves,0.0,0.778,0.222,0.5719
+88,2020-09-21 10:25:00,FB,"Facebook's new Rights Manager tool lets creators protect their photos, including those embedded elsewhere",0.0,0.833,0.16699999999999998,0.3818
+89,2020-09-21 10:09:00,FB,"Nikola's Trevor Milton steps down amid fraud claims, tech stocks extend several weeks' worth of declines",0.18600000000000005,0.637,0.17600000000000002,-0.29600000000000004
+90,2020-09-21 09:14:00,FB,3 Reasons Facebook's Oculus Quest 2 Will Expand Its VR Market,0.0,0.777,0.223,0.3182
+91,2020-09-21 07:53:00,FB,Snowflake IPO Shows Investors Hunger for a Rarity: True Growth,0.149,0.448,0.403,0.5267
+92,2020-09-21 07:03:00,FB,Walmart hits a grand slam with its TikTok deal with Oracle,0.191,0.588,0.221,0.1027
+93,2020-09-21 03:41:00,FB,Trump Celebrates TikTok Deal That Falls Short of Key Demands,0.0,0.7090000000000001,0.29100000000000004,0.5719
+94,2020-09-20 22:08:00,FB,Facebook Says Regulator Data Transfer Ruling Will Kill Its EU Operations,0.32,0.68,0.0,-0.6908
+95,2020-09-20 11:10:00,FB,"Trump Blesses Oracles TikTok Deal, Delays App Store Ban",0.254,0.493,0.254,0.0
+96,2020-09-20 06:13:00,FB,Facebook tells Irish court that probe threatens its EU operations - newspaper,0.206,0.794,0.0,-0.3818
+98,2020-09-20 04:26:00,FB,Morgan Stanley Lifts Facebooks PT On New Features,0.0,1.0,0.0,0.0
+99,2020-09-19 21:56:00,FB,"Oracle, Walmart Invest in TikTok to Gain Social Media Toehold",0.0,0.726,0.274,0.5267
+0,2020-09-29 19:45:00,FB,Google Sees Deal Within Reach on World-First Law to Pay for News,0.112,0.8,0.08800000000000001,-0.0772
+1,2020-09-29 19:38:00,FB,Facebook names VP of product growth Alex Schultz as new CMO,0.0,0.794,0.206,0.3818
+2,2020-09-29 17:44:00,FB,A powerful source of job creation is on a record-breaking upswing,0.0,0.588,0.412,0.5994
+3,2020-09-29 17:30:00,FB,Facebook Names Longtime Exec Alex Schultz New CMO,0.0,1.0,0.0,0.0
+4,2020-09-29 16:25:00,FB,Facebook Inc. Cl A stock outperforms competitors on strong trading day,0.0,0.732,0.268,0.5106
+5,2020-09-29 16:11:00,FB,Walmart Eyes Biggest India Investment Ever Amid 'Super App' Race,0.0,0.698,0.302,0.5994
+6,2020-09-29 15:00:00,FB,Facebook Promotes Longtime Growth Executive to Lead Marketing,0.0,0.545,0.455,0.6124
+7,2020-09-29 13:03:00,FB,25 Most Used Illegal Drugs in America,0.393,0.607,0.0,-0.5965
+8,2020-09-29 12:45:00,FB,"Ringing alarm bells, Biden campaign calls Facebook 'foremost propagator' of voting disinformation",0.179,0.821,0.0,-0.34
+9,2020-09-29 12:19:00,FB,"Facebook introduces Accounts Center, a tool for managing a growing number of cross-app settings",0.0,0.769,0.231,0.25
+10,2020-09-29 11:00:00,FB,TikTok Unveils U.S. Voter Guide Amid White House Battle,0.245,0.755,0.0,-0.3818
+11,2020-09-29 07:00:00,FB,Peter Thiel Tightens His Grip on Palantir Ahead of Public Listing,0.0,1.0,0.0,0.0
+12,2020-09-29 04:29:00,FB,Philippines accuses Facebook of censoring pro-government content,0.28600000000000003,0.7140000000000001,0.0,-0.34
+13,2020-09-28 21:10:00,FB,Tata Group Courts Investors for New Digital Platform,0.0,1.0,0.0,0.0
+14,2020-09-28 16:52:00,FB,"Facebook Inc. Cl A stock rises Monday, still underperforms market",0.0,1.0,0.0,0.0
+15,2020-09-28 16:21:00,FB,Palantir eyes $22B market debut  here's what the secretive big-data firm does,0.0,1.0,0.0,0.0
+16,2020-09-28 16:05:00,FB,"Stock market news live updates: Stocks jump, Dow gains 411 points",0.0,0.8059999999999999,0.194,0.34
+17,2020-09-28 15:14:00,FB,Philippines' Duterte calls out Facebook after accounts taken down,0.0,1.0,0.0,0.0
+19,2020-09-28 12:07:00,FB,Mark Zuckerberg's 'Supreme Court' is up and running: Facebook exec,0.0,0.7140000000000001,0.28600000000000003,0.5574
+20,2020-09-28 12:07:00,FB,5 Social Media Stocks Poised For Post-Pandemic Success,0.0,0.467,0.5329999999999999,0.6908
+21,2020-09-28 11:28:00,FB,Facebook executive on how the social media platform is gearing up for the 2020 presidential election,0.0,1.0,0.0,0.0
+22,2020-09-28 09:29:00,FB,Tech giants are ignoring questions over the legality of their EU-US data transfers,0.184,0.816,0.0,-0.4019
+23,2020-09-28 06:57:00,FB,"The Zacks Analyst Blog Highlights: Amazon, Google, Microsoft, Facebook and Tencent",0.0,0.855,0.145,0.1779
+24,2020-09-27 10:00:00,FB,"We are entering a golden age for borderless, global teams",0.0,1.0,0.0,0.0
+25,2020-09-27 07:48:00,FB,These 2 Robinhood Stocks Are Down Around 15% This Month: Should You Buy the Dip?,0.0,1.0,0.0,0.0
+26,2020-09-27 05:51:00,FB,4 Stocks to Buy if the Stock Market Tech Wreck Continues,0.244,0.7559999999999999,0.0,-0.4404
+27,2020-09-27 02:01:00,FB,6 Alternatives for Investors Searching How to Buy the Ant Group IPO,0.0,1.0,0.0,0.0
+28,2020-09-26 17:32:00,FB,"What to Know About Judge Amy Coney Barrett, Trumps Supreme Court Nominee",0.0,0.753,0.247,0.5574
+30,2020-09-26 13:00:00,FB,Facebook Wants to Be Your Default iPhone Messaging Service,0.0,1.0,0.0,0.0
+31,2020-09-26 11:08:00,FB,These Are The 5 Best Stocks To Buy And Watch Now,0.0,0.682,0.318,0.6369
+32,2020-09-26 09:47:00,FB,3 Stocks to Buy and Hold for Decades,0.0,1.0,0.0,0.0
+33,2020-09-26 08:32:00,FB,Opinion: Why Mr. Market doesnt care if democracy is collapsing,0.376,0.624,0.0,-0.5897
+34,2020-09-26 06:30:00,FB,"We Ask Successful Investors: If You Could Only Own 3 Stocks, What Would They Be?",0.0,0.774,0.226,0.5859
+0,2020-09-30 18:54:00,FB,Facebook bans U.S. ads that call voting fraud widespread or election invalid,0.257,0.743,0.0,-0.5859
+1,2020-09-30 18:45:00,FB,"Facebook Messenger, Instagram Users Can Chat With Each Other",0.0,1.0,0.0,0.0
+2,2020-09-30 17:04:00,FB,3 FAANG Stocks That Score a Perfect 10,0.0,0.575,0.425,0.5719
+4,2020-09-30 16:33:00,FB,Facebook's Integration of Messenger and Instagram Advances Multiple Strategic Goals,0.0,1.0,0.0,0.0
+5,2020-09-30 16:25:00,FB,"Facebook Inc. Cl A stock rises Wednesday, still underperforms market",0.0,1.0,0.0,0.0
+6,2020-09-30 15:31:00,FB,Apples App Store war doesnt end with Epic,0.358,0.642,0.0,-0.5994
+7,2020-09-30 13:39:00,FB,Facebook Integrates Messenger Chat With Instagram,0.0,1.0,0.0,0.0
+8,2020-09-30 13:36:00,FB,'The Real Facebook Oversight Board' launches to counter Facebook's 'Oversight Board',0.0,1.0,0.0,0.0
+9,2020-09-30 13:03:00,FB,GBTC Stock A Good Buy? Bitcoin Stock Play Stutters Along With Cryptocurrency,0.131,0.523,0.34600000000000003,0.5106
+10,2020-09-30 08:58:00,FB,Big Tech Faces Ban From Favoring Own Services Under EU Rules,0.23399999999999999,0.584,0.182,-0.2023
+11,2020-09-30 08:06:00,FB,"Facebook overhauls Instagram messaging, enabling cross-app chats with Messenger",0.0,1.0,0.0,0.0
+12,2020-09-30 08:00:00,FB,Facebook Takes Step to Integration With Messenger-Instagram Chat,0.0,1.0,0.0,0.0
+14,2020-09-30 07:59:00,FB,"Facebook introduces cross-app communication between Messenger and Instagram, plus other features",0.0,1.0,0.0,0.0
