@@ -1,0 +1,101 @@
+,ticker,date,time,headline,neg,neu,pos,compound
+0,GOOG,2020-10-01,10:06PM,"House Democrats discuss tougher antitrust law, some Republicans agree",0.0,0.625,0.375,0.4939
+1,GOOG,2020-10-01,10:05PM,Options investor makes big bets on Nasdaq's popular 'FANG' stocks,0.0,0.763,0.237,0.4215
+2,GOOG,2020-10-01,06:47PM,Why Google Play Is Changing Its Payment Policy,0.0,0.745,0.255,0.34
+3,GOOG,2020-10-01,06:41PM,'Dangerous for democracy': Big Tech hearing gives clues on future of antitrust law,0.205,0.795,0.0,-0.4767
+4,GOOG,2020-10-01,06:34PM,House Antitrust Chair Says Big Tech Abuses Gatekeeper Power,0.31,0.69,0.0,-0.5574
+5,GOOG,2020-10-01,06:22PM,Daily Crunch: Google commits $1B to pay publishers,0.165,0.706,0.129,-0.0772
+6,GOOG,2020-10-01,05:51PM,Options investor makes big bets on Nasdaq's popular 'FANG' stocks,0.0,0.763,0.237,0.4215
+7,GOOG,2020-10-01,05:50PM,"House Democrats discuss tougher antitrust law, some Republicans agree",0.0,0.625,0.375,0.4939
+8,GOOG,2020-10-01,05:39PM,"House Democrats discuss tougher antitrust law, some Republicans agree",0.0,0.625,0.375,0.4939
+9,GOOG,2020-10-01,04:25PM,"Alphabet Inc. Cl A stock rises Thursday, outperforms market",0.0,1.0,0.0,0.0
+10,GOOG,2020-10-01,04:06PM,"Google Adds 4 New Products To Hardware Line, But Search Prevails",0.0,1.0,0.0,0.0
+11,GOOG,2020-10-01,03:15PM,Oracle's TikTok and Zoom deals won't move cloud market share needle significantly,0.0,0.833,0.167,0.296
+12,GOOG,2020-10-01,03:00PM,Google to pay content creators more than $1B for news content,0.123,0.877,0.0,-0.1027
+13,GOOG,2020-10-01,02:11PM,"Senate committee set to subpoena Facebooks Zuckerberg, Twitters Dorsey, Googles Pichai",0.0,1.0,0.0,0.0
+14,GOOG,2020-10-01,02:03PM,"Heres where Biden and Trump stand on antitrust, social media and other tech issues",0.0,1.0,0.0,0.0
+15,GOOG,2020-10-01,01:12PM,Google Maps gets improved Live View AR directions,0.0,0.693,0.307,0.4767
+16,GOOG,2020-10-01,01:11PM,House Democrats look to break up Big Tech,0.0,1.0,0.0,0.0
+17,GOOG,2020-10-01,01:06PM,Google pledges to pay its publishers $1B,0.189,0.811,0.0,-0.1027
+18,GOOG,2020-10-01,12:18PM,"Dow Ekes Out Gain as Pelosi Rips White House Offer, Cooling Stimulus Hopes",0.0,0.64,0.36,0.7351
+19,GOOG,2020-10-01,12:06PM,"Senate Panel Will Subpoena Facebook, Google, Twitter CEOs",0.0,1.0,0.0,0.0
+20,GOOG,2020-10-01,12:00PM,Google takes aim at 'beauty filters' with design changes coming to Pixel phones,0.0,0.759,0.241,0.5859
+21,GOOG,2020-10-01,11:45AM,Senate Panel Votes to Subpoena Top Tech CEOs,0.0,0.795,0.205,0.2023
+22,GOOG,2020-10-01,11:41AM,"Snowflake Slips as Jefferies Initiates With a Hold, Citing Valuation",0.0,1.0,0.0,0.0
+23,GOOG,2020-10-01,11:31AM,Google to Pay News Publishers $1B in Launch of New Product,0.123,0.877,0.0,-0.1027
+24,GOOG,2020-10-01,11:00AM,You Can Oppose Trump While Supporting Reopening Schools,0.0,0.707,0.293,0.4404
+25,GOOG,2020-10-01,10:05AM,Apple should be worried about Googles new Chromecast: tech analyst,0.196,0.804,0.0,-0.296
+26,GOOG,2020-10-01,09:57AM,"Senate panel approves sending subpoenas to CEOs of Twitter, Facebook, Google",0.0,0.787,0.213,0.4019
+27,GOOG,2020-10-01,07:16AM,"India Startups Join Effort to Break Google, Facebook Dominance",0.0,0.636,0.364,0.4588
+28,GOOG,2020-10-01,06:59AM,Google to Pay Publishers Over $1 Billion for News Content,0.135,0.865,0.0,-0.1027
+29,GOOG,2020-10-01,06:44AM,Google to pay out $1B to publishers to license content for new Google News Showcase,0.091,0.909,0.0,-0.1027
+30,GOOG,2020-10-01,06:11AM,Google to pay publishers $1 billion over three years for their news,0.113,0.887,0.0,-0.1027
+31,GOOG,2020-10-01,06:00AM,Influencers with Andy Serwer: Gayle Smith,0.0,1.0,0.0,0.0
+32,GOOG,2020-10-01,06:00AM,Google to pay publishers $1 bln over three years for their content,0.113,0.887,0.0,-0.1027
+33,GOOG,2020-10-01,05:00AM,Inside a California Covid Revolt,0.0,1.0,0.0,0.0
+34,GOOG,2020-10-01,04:43AM,"India plans launch of own app store as alternative to Google, Apple - ET Now",0.0,1.0,0.0,0.0
+35,GOOG,2020-10-01,04:42AM,"India plans launch of own app store as alternative to Google, Apple: ET Now",0.0,1.0,0.0,0.0
+36,GOOG,2020-10-01,04:39AM,"India plans launch of own app store as alternative to Google, Apple - ET Now",0.0,1.0,0.0,0.0
+37,GOOG,2020-10-01,04:00AM,"Supreme Court Gets Star Turn in Own Drama Over Vacancy, Election",0.0,0.735,0.265,0.5574
+38,GOOG,2020-10-01,02:50AM,"Google Rolls Out New Smartphones, Streaming Device",0.0,1.0,0.0,0.0
+39,GOOG,2020-09-30,10:52PM,Twitters Jack Dorsey Slams Coinbase for Its No-Politics Stance,0.0,1.0,0.0,0.0
+40,GOOG,2020-09-30,10:33PM,"Alphabet Inc's Google launches Google TV, new Chromecast",0.0,1.0,0.0,0.0
+41,GOOG,2020-09-30,09:42PM,Indian startups explore alliance and alternative app store to fight Google's 'monopoly',0.191,0.809,0.0,-0.3818
+42,GOOG,2020-09-30,04:55PM,Tech Companies Wager Billions On Race To Win Over These Consumers,0.0,0.725,0.275,0.5859
+43,GOOG,2020-09-30,04:35PM,"Google Unveils New Chromecast, Pixel Phones And Smart Speaker",0.0,0.748,0.252,0.4019
+44,GOOG,2020-09-30,04:25PM,"Alphabet Inc. Cl A stock falls Wednesday, underperforms market",0.0,1.0,0.0,0.0
+45,GOOG,2020-09-30,04:18PM,FCC commissioner calls for new scrutiny of undersea data cables,0.0,1.0,0.0,0.0
+46,GOOG,2020-09-30,04:12PM,"Streaming Wars Likely A Fallacy, As Netflix, Other Leaders Hold Strong",0.242,0.537,0.221,-0.0772
+47,GOOG,2020-09-30,04:09PM,FCC commissioner calls for new scrutiny of undersea data cables,0.0,1.0,0.0,0.0
+48,GOOG,2020-09-30,03:34PM,Google Debuts 5G Pixel Phones Ahead of Apples iPhone Launch,0.0,1.0,0.0,0.0
+49,GOOG,2020-09-30,03:31PM,Apples App Store war doesnt end with Epic,0.358,0.642,0.0,-0.5994
+50,GOOG,2020-09-30,02:59PM,"A new Google Assistant feature, 'Hold for Me,' waits on hold so you don't have to",0.0,1.0,0.0,0.0
+51,GOOG,2020-09-30,02:57PM,"Google introduces new Pixel 5 smartphone,  Chromecast, Nest speaker",0.0,1.0,0.0,0.0
+52,GOOG,2020-09-30,02:48PM,"Pixel 5 and 4a 5g get the same, improved cameras with rear ultrawide lens, Night Sight portraits and more",0.0,0.846,0.154,0.4767
+53,GOOG,2020-09-30,02:33PM,Google unveils the $99 Nest Audio smart speaker,0.0,0.722,0.278,0.4019
+54,GOOG,2020-09-30,02:32PM,Google launches the $499 Pixel 4a 5G,0.0,1.0,0.0,0.0
+55,GOOG,2020-09-30,02:26PM,"Alphabet Inc's Google launches Google TV, new Chromecast",0.0,1.0,0.0,0.0
+56,GOOG,2020-09-30,02:24PM,"Google Launches $99 Nest Audio Speaker, New Chromecast TV Device",0.0,1.0,0.0,0.0
+57,GOOG,2020-09-30,02:20PM,"Googles Overhauled Chromecast Has New Google TV Interface  and, Finally, a Remote Control",0.0,1.0,0.0,0.0
+58,GOOG,2020-09-30,02:10PM,"The new Google TV brings streaming apps, live TV and search into a single interface",0.0,1.0,0.0,0.0
+59,GOOG,2020-09-30,01:00PM,Meet the lawyers behind the upcoming U.S./Google antitrust showdown,0.0,1.0,0.0,0.0
+60,GOOG,2020-09-30,11:05AM,3 Stock Predictions for the Fourth Quarter,0.0,1.0,0.0,0.0
+61,GOOG,2020-09-30,11:02AM,What to expect from Google's Pixel 5 launch event,0.0,1.0,0.0,0.0
+62,GOOG,2020-09-30,11:00AM,Google Is Reportedly About to Clinch Its Fitbit Acquisition,0.0,1.0,0.0,0.0
+63,GOOG,2020-09-30,10:58AM,Europe eyeing limits on how big tech can use data and bundle apps -- reports,0.0,1.0,0.0,0.0
+64,GOOG,2020-09-30,09:25AM,China to Open Antitrust Probe Into Google's Android OS,0.0,1.0,0.0,0.0
+65,GOOG,2020-09-30,09:00AM,Google Is Stoking Antitrust Criticisms at the Worst Possible Time,0.429,0.571,0.0,-0.7184
+66,GOOG,2020-09-30,08:58AM,Big Tech Faces Ban From Favoring Own Services Under EU Rules,0.234,0.584,0.182,-0.2023
+67,GOOG,2020-09-30,08:45AM,6 Things to Know About Amazon's Luna Cloud Gaming Service,0.0,1.0,0.0,0.0
+68,GOOG,2020-09-30,08:09AM,"U.S. tech giants face curbs on data sharing, digital marketplaces, under draft EU rules",0.0,0.823,0.177,0.4215
+69,GOOG,2020-09-30,07:59AM,"U.S. tech giants face curbs on data sharing, digital marketplaces, under draft EU rules",0.0,0.823,0.177,0.4215
+70,GOOG,2020-09-30,05:32AM,Exclusive: China preparing an antitrust investigation into Google - sources,0.0,0.842,0.158,0.128
+71,GOOG,2020-09-30,04:16AM,Alibaba Expects First Profit From Its Cloud Arm This Year,0.0,0.756,0.244,0.4404
+72,GOOG,2020-09-30,02:23AM,"Apple Key Services Suffer Outage, Following Similar Woes For Google, Microsoft",0.416,0.584,0.0,-0.7506
+73,GOOG,2020-09-29,10:44PM,U.S. House Judiciary antitrust report likely to come out as soon as Monday Oct. 5 - source,0.0,1.0,0.0,0.0
+74,GOOG,2020-09-29,10:13PM,U.S. expected to sue Google next week as DOJ seeks support from states,0.0,0.816,0.184,0.4019
+75,GOOG,2020-09-29,07:59PM,U.S. expected to sue Google next week as DOJ seeks support from states,0.0,0.816,0.184,0.4019
+76,GOOG,2020-09-29,07:45PM,Google Sees Deal Within Reach on World-First Law to Pay for News,0.112,0.8,0.088,-0.0772
+77,GOOG,2020-09-29,04:25PM,Alphabet Inc. Cl A stock outperforms market on strong trading day,0.0,0.732,0.268,0.5106
+78,GOOG,2020-09-29,04:11PM,Walmart Eyes Biggest India Investment Ever Amid 'Super App' Race,0.0,0.698,0.302,0.5994
+79,GOOG,2020-09-29,03:42PM,Google Is Getting Closer to Buying Fitbit. Heres What It Means for Competitors.,0.0,1.0,0.0,0.0
+80,GOOG,2020-09-29,03:36PM,Report: Google's $2.1 Billion Fitbit Deal Is Close to Approval In Europe,0.0,0.78,0.22,0.4767
+81,GOOG,2020-09-29,02:19PM,"Fitbit, Eventbrite, Stitch Fix: Midday Tech Stock Movers",0.0,1.0,0.0,0.0
+82,GOOG,2020-09-29,12:45PM,Better Buy: Netflix vs. Alphabet,0.0,0.58,0.42,0.4404
+83,GOOG,2020-09-29,12:31PM,"Stock Markets Ease Lower; Fitbit, Tortoise Speed Toward Completing Deals",0.173,0.63,0.197,0.0772
+84,GOOG,2020-09-29,10:55AM,Google Isn't Giving Up on Fitbit Just Yet,0.225,0.775,0.0,-0.2584
+85,GOOG,2020-09-29,10:46AM,Google Set to Win EU Approval for Fitbit Purchase,0.0,0.504,0.496,0.7845
+86,GOOG,2020-09-29,10:26AM,Google offers Europe more checks Fitbit data won't be used for ads,0.0,1.0,0.0,0.0
+87,GOOG,2020-09-29,09:00AM,IDC: Wearables Market to Approach 400 Million Units This Year,0.0,1.0,0.0,0.0
+88,GOOG,2020-09-29,07:36AM,Google Makes Data Pledge to Win EU Nod for Fitbit Deal,0.0,0.725,0.275,0.5859
+89,GOOG,2020-09-29,07:15AM,Apple's App Store Now Faces a Coalition of High-Profile Rebels,0.184,0.816,0.0,-0.2023
+90,GOOG,2020-09-29,06:56AM,"Bing, smaller firms, win Google's Android search auction in Europe",0.0,0.703,0.297,0.5859
+91,GOOG,2020-09-29,06:20AM,Google offers concessions in fresh bid to win EU okay for Fitbit deal,0.0,0.556,0.444,0.7906
+92,GOOG,2020-09-29,06:20AM,"Exclusive: Google, Fitbit deal set to win EU okay after fresh concessions - sources",0.0,0.486,0.514,0.8176
+93,GOOG,2020-09-29,06:11AM,Google offers concessions in fresh bid to win EU okay for Fitbit deal,0.0,0.556,0.444,0.7906
+94,GOOG,2020-09-29,02:21AM,Microsofts Bing Will Have Key Slot on Some New Android Phones,0.0,1.0,0.0,0.0
+95,GOOG,2020-09-29,01:57AM,Russias Tech Giant Tests the Limit for Superapps,0.0,1.0,0.0,0.0
+96,GOOG,2020-09-29,01:28AM,Microsofts Office 365 Back From Outage Lasting Several Hours,0.0,1.0,0.0,0.0
+97,GOOG,2020-09-29,12:52AM,Google Sparks Another EU Antitrust Row Over Skipping Key Search Rivals From Android Choice List,0.0,1.0,0.0,0.0
+98,GOOG,2020-09-28,10:40PM,Google Says All App Developers Must Begin Forking Out 30% Play Store Cut Next Year,0.12,0.743,0.137,0.0772
+99,GOOG,2020-09-28,09:22PM,4 Underrated Tech Stocks,0.0,1.0,0.0,0.0
