@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Stock Market Predictor</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+  <form action="/search">
+    <div style="text-align: center;">
+      <br>
+        <h1 class="headertext">Stock Market Predictor</h1>
+        <br>
+        Input ticker symbol:
+        <br>
+        <br>
+        <center>
+          <input align = "center" type="text" name="ticker" id="rcorners2">
+        </center>
+    <br>
+    <!-- Submit button -->
+    <center>
+    <input align="center" type="submit" value="Submit" method="get" id="rcorners1">
+  </center>
+    <br>
+
+  </form>
+    </div>
+  </p>
+      <style>
+        table, th, td {border: 1px solid black; border-collapse: collapse;}
+        table.center {margin-left: auto; margin-right: auto;}
+        th, td {padding: 10px;}
+        .wide{width:150px;}
+      </style>
+          <table class="center">
+            <thead>
+              <tr class="table100-head">
+                <th colspan="1" class="column1">Ticker Symbol</th>
+                <th colspan="1" class="column2">Results</th>
+              </tr>
+            </thead>
+            <tbody>
+                <tr>
+                  <td rowspan="1" class="column1">{{company}}</td>
+                  <!-- <td rowspan="1" class="column1">{{ company }}</td> -->
+                  <td class="column1">{{prediction}}</td>
+                </tr>
+            </tbody>
+          </table>
+          <br>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
